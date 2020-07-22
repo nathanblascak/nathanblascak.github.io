@@ -1,5 +1,6 @@
-layout: page
-title: "Research"
-permalink: /https://nathanblascak.github.io/research/
+# Peer Reviewed Publications
 
-Research in progress:
+
+# Working Papers
+
+# Works In-progress
