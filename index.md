@@ -38,3 +38,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 [comment]: # Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 The views here are my own and necessarily those of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
+
+# => http://nathanblascak.github.io/research.html
