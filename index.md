@@ -1,6 +1,6 @@
 ## About
 
-I am a Research Fellow at the [Consumer Finance Institute](https://philadelphiafed.org/consumer-finance-institute) at the [Federal Reserve Bank of Philadelphia](https://philadelphiafed.org/).
+I am a Research Fellow at the [Consumer Finance Institute](https://philadelphiafed.org/consumer-finance-institute) at the [Federal Reserve Bank of Philadelphia](https://philadelphiafed.org/). My research focuses on topics in consumer/household finance, health economics, and identity theft.
 
 <!-- # You can use the [editor on GitHub](https://github.com/nathanblascak/nathanblascak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
 
