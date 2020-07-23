@@ -19,4 +19,4 @@ I am a Research Fellow at the [Consumer Finance Institute](https://philadelphiaf
 
 <!-- # Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
 
-The views here are my own and necessarily those of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.
+Disclaimer: **The views here are my own and necessarily those of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.**
