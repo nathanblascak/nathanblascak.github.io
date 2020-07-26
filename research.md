@@ -1,6 +1,6 @@
 ## Peer Reviewed Publications
 
-''The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions'' (with James Bailey), Applied Economic Letters, 2016, 23(14): 1042-1046.
+[''The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions''](https://www.tandfonline.com/doi/full/10.1080/13504851.2015.1130786) (with James Bailey), Applied Economic Letters, 2016, 23(14): 1042-1046.
 
 **Abstract**
 
