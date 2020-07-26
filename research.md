@@ -1,6 +1,6 @@
 ## Peer Reviewed Publications
 
-[''The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions''](https://www.tandfonline.com/doi/full/10.1080/13504851.2015.1130786) (with James Bailey), Applied Economic Letters, 2016, 23(14): 1042-1046.
+[''The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions''](https://www.tandfonline.com/doi/full/10.1080/13504851.2015.1130786) (with [James Bailey](https://sites.temple.edu/jamesbailey/)), Applied Economic Letters, 2016, 23(14): 1042-1046.
 
 **Abstract**
 
@@ -8,7 +8,7 @@ The average US state has 40 benefit mandates, laws requiring health insurance to
 
 ## Working Papers
 
-"Health Insurance as an Income Stabilizer" (with Emily A. Gallagher, Stephen Roll, and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05.
+["Health Insurance as an Income Stabilizer"](https://philadelphiafed.org/-/media/research-and-data/publications/working-papers/2020/wp20-05.pdf) (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/), Stephen Roll, and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05.
 
 **Abstract:**
 
