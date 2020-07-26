@@ -14,5 +14,11 @@ The average US state has 40 benefit mandates, laws requiring health insurance to
 
 We evaluate the effect of health insurance on the incidence of negative income shocks using the tax data and survey responses of nearly 14,000 low income households. Using a regression discontinuity (RD) design and variation in the cost of nongroup private health insurance under the Affordable Care Act, we find that eligibility for subsidized Marketplace insurance is associated with a 16% and 9% decline in the rates of unexpected job loss and income loss, respectively. Effects are concentrated among households with past health costs and exist only for “unexpected” forms of earnings variation, suggesting a health-productivity link. Calculations based on our fuzzy RD estimate imply a $256 to $476 per year welfare benefit of health insurance in terms of reduced exposure to job loss. 
 
+["Financial Consequences of Health Insurance: Evidence from the ACA's Dependent Coverage Mandate"](https://philadelphiafed.org/-/media/research-and-data/publications/working-papers/2019/wp19-54.pdf?la=en) (with Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 19-54 (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://philadelphiafed.org/-/media/research-and-data/publications/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.)
+
+**Abstract:**
+
+We study the financial effects of health insurance for young adults using the Affordable Care Act’s dependent coverage mandate as a source of exogenous variation. Using nationally representative, anonymized credit report and publicly available survey data on medical expenditures, we exploit the mandate’s implementation in 2010 and its automatic disenrollment mechanism at age 26. Our estimates show that increasing access to health insurance lowered young adults’ out-of-pocket medical expenditures, debt in third-party collections, and the probability of personal bankruptcy. However, most improvements in financial outcomes are transitory, as they diminish after an individual ages out of the mandate at age 26.
+
 
 ## Works In-progress
