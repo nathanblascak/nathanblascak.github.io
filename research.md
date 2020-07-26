@@ -19,3 +19,15 @@
      - **Abstract:** This paper examines how a negative shock to the security of personal finances due to severe identity theft changes consumer credit behavior. Using a unique data set of consumer credit records and alerts indicating identity theft and the exogenous timing of victimization, we show that the immediate effects of fraud on credit files are typically negative, small, and transitory. After those immediate effects fade, identity theft victims experience persistent, positive changes in credit characteristics, including improved Risk Scores. Consumers also exhibit caution with credit by having fewer open revolving accounts while maintaining total balances and credit limits. Our results are consistent with consumer inattention to credit reports prior to identity theft and reduced trust in credit card markets after identity theft
 
 ## Works In-progress
+
+ - "Medicaid Cuts and Consumer Financial Outcomes: Evidence from Missouri" (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed)
+
+ - "Fraud Exposure and Precautionary Credit Market Behavior" (with [Ying Lei Toh](https://sites.google.com/view/yinglei-toh/home))
+
+ - "Financial Spillovers from Hospital Billing Regulations: Evidence from California" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/))
+
+ - "Health Insurance, Consumption, and Borrowing: Evidence from the Affordable Care Act's Dependent Coverage Mandate" (with [James Bailey](https://sites.temple.edu/jamesbailey/), and Slava Mikhed)
+
+ - "Thirsty for Credit: Mortgage Lending During the Flint Water Crisis" (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/))
+
+ - "Decomposing Gender Differences in Bankcard Credit Limits" (with Anna Tranfaglia)
