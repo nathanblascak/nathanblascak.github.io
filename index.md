@@ -7,7 +7,7 @@ I am a Research Fellow at the [Consumer Finance Institute](https://philadelphiaf
 <!-- # Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
 [Research](https://nathanblascak.github.io/research)  
-[CV](<a href="{{ BASE_PATH }}/Blascak_CV_Sept2020.pdf) (Version: September 2020)
+<a href="{{ BASE_PATH }}/Blascak_CV_Sept2020.pdf">CV</a></li> (Version: September 2020)
 
 [IDEAS/RePeC](https://ideas.repec.org/f/pbl221.html)  
 [Google Scholar](https://scholar.google.com/citations?user=ZnduPykAAAAJ&hl=en&oi=ao)
