@@ -18,9 +18,15 @@
 
      - **Abstract:** We examine how a negative shock from identity theft affects consumer credit market behavior. We show that the immediate effects of fraud on credit files are typically negative, small, and transitory. After those immediate effects fade, identity theft victims experience persistent increases in credit scores and declines in reported delinquencies, with a significant proportion of affected consumers transitioning from subprime-to-prime credit scores. Those consumers take advantage of their improved creditworthiness to obtain additional credit, including auto loans and mortgages. Despite having larger balances, these individuals default on their loans less than prior to identity theft. 
 
-## Works In-progress
+- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://philadelphiafed.org/-/media/frbp/assets/research-and-data/publications/working-papers/2020/wp20-42.pdf?la=en) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 20-42.
 
- - "Missouri's Medicaid Contraction and Consumer Financial Outcomes" (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed)
+     - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their
+eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using data from the Federal Reserve Bank of New York/Equifax Consumer Credit Panel (CCP) and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led
+to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
+
+
+
+## Works In-progress
 
  - "Fraud Exposure and Precautionary Credit Market Behavior" (with [Ying Lei Toh](https://sites.google.com/view/yinglei-toh/home))
 
