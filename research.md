@@ -6,7 +6,7 @@
 
 ## Working Papers
 
-- ["Health Insurance as an Income Stabilizer"](https://philadelphiafed.org/-/media/research-and-data/publications/working-papers/2020/wp20-05.pdf) (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/), Stephen Roll, and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05. (*Submitted*)
+- ["Health Insurance as an Income Stabilizer"](https://philadelphiafed.org/-/media/research-and-data/publications/working-papers/2020/wp20-05.pdf) (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/), Stephen Roll, and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05. (*Under Review*)
 
      - **Abstract:** We evaluate the effect of health insurance on the incidence of negative income shocks using the tax data and survey responses of nearly 14,000 low income households. Using a regression discontinuity (RD) design and variation in the cost of nongroup private health insurance under the Affordable Care Act, we find that eligibility for subsidized Marketplace insurance is associated with a 16% and 9% decline in the rates of unexpected job loss and income loss, respectively. Effects are concentrated among households with past health costs and exist only for “unexpected” forms of earnings variation, suggesting a health-productivity link. Calculations based on our fuzzy RD estimate imply a $256 to $476 per year welfare benefit of health insurance in terms of reduced exposure to job loss. 
 
