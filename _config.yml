@@ -1,6 +1,5 @@
 title: "Nathan Blascak"
-url: "https://nathanblascak.github.io"
-baseurl: 
-logo: nathanblascak.github.io/blascakwork.jpg
+url: "https://nathanblascak.github.io" 
+logo: "nathanblascak.github.io/blascakwork.jpg"
 description: null
 theme: jekyll-theme-minimal
