@@ -32,7 +32,7 @@
 
 ## Works In-progress
 
- - "Fraud Exposure and Precautionary Credit Market Behavior" (with [Ying Lei Toh](https://sites.google.com/view/yinglei-toh/home))
+ - "Prior Fraud Exposure and Precautionary Credit Market Behavior" (with [Ying Lei Toh](https://sites.google.com/view/yinglei-toh/home))
 
  - "Financial Spillovers from Hospital Billing Regulations: Evidence from California" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/))
 
