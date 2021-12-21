@@ -6,12 +6,12 @@
 
 ## Working Papers
 
-- ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-35.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 21-35. (*Submitted*)
+- ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-35.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 21-35. (*Under Review*)
 
 
      - **Abstract:** In this paper, we examine if there are gender differences in total bankcard limits by utilizing a data set that links mortgage applicant information with  individual-level credit bureau data from 2006 to 2016. We document that after controlling for credit score, income, and demographic characteristics, male borrowers on average have higher total bankcard limits than female borrowers. Using a standard Kitagawa-Oaxaca-Blinder decomposition, we find that 87 percent of the gap is explained by differences in the *effect* of observed characteristics between male and female borrowers, while approximately 10 percent of the difference can be explained by differences in the *levels* of observed characteristics. Using a quantile decomposition strategy to analyze the gender gap along the entire bankcard credit limit distribution, we show that gender differences in bankcard limits favor female borrowers at smaller limits and favor male borrowers at larger limits. The primary factors that drive this gap have changed over time and vary across the distribution of credit limits.
 
-       ##### Press Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html)
+       ##### Press Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai)
 
 - ["Health Insurance as an Income Stabilizer"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-05.pdf) (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/), Stephen Roll, and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05. 
 
