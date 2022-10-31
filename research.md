@@ -10,6 +10,11 @@
 
 ## Working Papers
 
+- ["Prior Fraud Exposure and Precautionary Credit Market Behavior"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-36.pdf) (with [Ying Lei Toh](https://sites.google.com/view/yinglei-toh/home)), Federal Reserve Bank of Philadelphia Working Paper 22-36.
+
+
+     - **Abstract:** This paper studies how past experiences with privacy shocks affect individuals' take-up of precautionary behavior when faced with a new privacy shock in the context of credit markets. We focus on experiences with identity theft and data breaches, two kinds of privacy shocks that either directly lead to fraud or put an individual at an elevated risk of experiencing fraud. Using the announcement of the 2017 Equifax data breach, we show that individuals with either kind of prior fraud exposure were more likely to freeze their credit report and close credit card accounts than individuals with no prior exposure immediately after the announcement. We also find that prior victims of identity theft, a more serious type of exposure, were more likely to take precautionary actions than individuals who were victims of a previous data breach.
+
 - ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-35.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 21-35.
 
 
@@ -25,15 +30,13 @@
 
      - **Abstract:** We examine how a negative shock from severe identity theft affects consumer credit market behavior in the United States. We show that the immediate effects of severe identity theft on credit files are typically negative, small, and transitory. After those immediate effects fade, identity theft victims experience persistent increases in credit scores and declines in reported delinquencies, with a significant proportion of affected consumers transitioning from subprime-to-prime credit scores. Those consumers take advantage of their improved creditworthiness to obtain additional credit, including auto loans and mortgages. Despite having larger balances, these individuals default on their loans less than they did prior to the identity theft incident. 
 
-- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 20-42. (*Revise and Resubmit*)
+- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 20-42. (*Resubmitted, American Journal of Health Economics*)
 
      - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
 
 
 
 ## Works In-progress
-
- - "Prior Fraud Exposure and Precautionary Credit Market Behavior" (with [Ying Lei Toh](https://sites.google.com/view/yinglei-toh/home))
 
  - "Financial Spillovers from Hospital Billing Regulations: Evidence from California" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/))
 
