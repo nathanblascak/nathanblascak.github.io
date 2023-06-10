@@ -2,6 +2,7 @@
 
 I am a Senior Research Fellow at the [Consumer Finance Institute](https://www.philadelphiafed.org/consumer-finance/about-the-consumer-finance-institute) at the [Federal Reserve Bank of Philadelphia](https://philadelphiafed.org/). My research focuses on topics in consumer/household finance, health economics, and identity theft.
 
+[My CFI webpage](https://www.philadelphiafed.org/our-people/nathan-blascak)
 <!-- # You can use the [editor on GitHub](https://github.com/nathanblascak/nathanblascak.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files. -->
 
 <!-- # Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
