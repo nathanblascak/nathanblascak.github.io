@@ -1,6 +1,6 @@
 ## Peer Reviewed Publications
 
-- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 20-42. (*Conditionally Accepted, American Journal of Health Economics*)
+- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 20-42. (*Accepted, American Journal of Health Economics*)
 
      - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
 
@@ -16,7 +16,7 @@
 
 ## Working Papers
 
- - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20.
+ - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20. (*Submitted*)
 
 
      - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law (FPL), a law that places a price ceiling on hospital bills for uninsured and financially vulnerable individuals. Using difference-in-difference-in-differences models, we
