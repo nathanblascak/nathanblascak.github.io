@@ -58,3 +58,5 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
  - "Thirsty for Credit: Mortgage Lending During the Flint Water Crisis" (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/))
 
+ - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/))
+
