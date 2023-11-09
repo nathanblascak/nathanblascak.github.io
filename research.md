@@ -16,7 +16,7 @@
 
 ## Working Papers
 
- - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20. (*Submitted*)
+ - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20. (*Under Review*)
 
 
      - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law (FPL), a law that places a price ceiling on hospital bills for uninsured and financially vulnerable individuals. Using difference-in-difference-in-differences models, we
@@ -29,7 +29,7 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
        ##### Media Coverage: [Take on Payments Blog](https://www.atlantafed.org/blogs/take-on-payments/2023/07/10/lets-try-gamification-to-fight-data-breach-ennui)
 
-- ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-35.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 21-35.
+- ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-35.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 21-35. (*Under Review*)
 
 
      - **Abstract:** In this paper, we examine if there are gender differences in total bankcard limits by utilizing a data set that links mortgage applicant information with  individual-level credit bureau data from 2006 to 2016. We document that after controlling for credit score, income, and demographic characteristics, male borrowers on average have higher total bankcard limits than female borrowers. Using a standard Kitagawa-Oaxaca-Blinder decomposition, we find that 87 percent of the gap is explained by differences in the *effect* of observed characteristics between male and female borrowers, while approximately 10 percent of the difference can be explained by differences in the *levels* of observed characteristics. Using a quantile decomposition strategy to analyze the gender gap along the entire bankcard credit limit distribution, we show that gender differences in bankcard limits favor female borrowers at smaller limits and favor male borrowers at larger limits. The primary factors that drive this gap have changed over time and vary across the distribution of credit limits.
