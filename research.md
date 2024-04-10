@@ -1,8 +1,10 @@
 ## Peer Reviewed Publications
 
-- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), Federal Reserve Bank of Philadelphia Working Paper 20-42. (*Accepted, American Journal of Health Economics*)
+- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), *American Journal of Health Economics*, Forthcoming
 
      - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
+
+       ##### Working paper version: ["Federal Reserve Bank of Philadelphia Working Paper 20-42"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
 
 - ["Health Insurance and Young Adult Financial Distress"](https://onlinelibrary.wiley.com/doi/10.1002/pam.22458) (with Slava Mikhed), *Journal of Policy Analysis and Management*, 2023, 42(2): 393-423.
 
@@ -29,7 +31,7 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
        ##### Media Coverage: [Take on Payments Blog](https://www.atlantafed.org/blogs/take-on-payments/2023/07/10/lets-try-gamification-to-fight-data-breach-ennui)
 
-- ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 23-30. (*Under Review*)
+- ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) (with Anna Tranfaglia), Federal Reserve Bank of Philadelphia Working Paper 23-30. (*Submitted*)
 
 
      - **Abstract:** Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total bankcard limits. We estimate that male borrowers have approximately $1,300 higher total bankcard limits than female borrowers. This gap is primarily driven by a large gender gap in the right tail of the limit distribution. At the median and in the left tail of the total limit distribution, women have larger limits than men. Results from a Kitagawa-Oaxaca-Blinder decomposition show that 87 percent of the gap is explained by differences in the *effect* of observed characteristics, while 10 percent of the difference is explained by differences in the levels of observed characteristics. The gap is persistent across geographies but has varied over time. Overall, these gender gaps are small in economic magnitude and have changed over time favoring women.
