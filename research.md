@@ -1,16 +1,16 @@
 ## Peer Reviewed Publications
 
-- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), *American Journal of Health Economics*, Forthcoming
+- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and Slava Mikhed), *American Journal of Health Economics*, Accepted
 
      - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
 
-       ##### Working paper version: ["Federal Reserve Bank of Philadelphia Working Paper 20-42"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
+       ##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 20-42](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
 
 - ["Health Insurance and Young Adult Financial Distress"](https://onlinelibrary.wiley.com/doi/10.1002/pam.22458) (with Slava Mikhed), *Journal of Policy Analysis and Management*, 2023, 42(2): 393-423.
 
      - **Abstract:** We study how health insurance eligibility affects financial distress for young adults using the Affordable Care Act's (ACA) dependent coverage mandate-the part of the ACA that requires private health insurance plans to cover individuals up to their 26th birthday. We examine the effects of both gaining *and* losing eligibility by exploiting the mandate's implementation in 2010 and its automatic disenrollment mechanism at age 26. Our estimates show that increasing access to health insurance lowers young adults' out-of-pocket medical expenditures and debt in third-party collections. However, the reductions in financial distress are transitory, as they diminish after an individual loses access to parental insurance when they age out of the mandate at age 26.
 
-       ##### Working paper version: ["Federal Reserve Bank of Philadelphia Working Paper 19-54"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-54.pdf) (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.) 
+       ##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 19-54](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-54.pdf) (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.) 
 
  - ["The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions"](https://www.tandfonline.com/doi/full/10.1080/13504851.2015.1130786) (with [James Bailey](https://sites.temple.edu/jamesbailey/)), *Applied Economic Letters*, 2016, 23(14): 1042-1046.
 
@@ -18,7 +18,7 @@
 
 ## Working Papers
 
- - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20. (*Under Review*)
+ - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20.
 
 
      - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law (FPL), a law that places a price ceiling on hospital bills for uninsured and financially vulnerable individuals. Using difference-in-difference-in-differences models, we
