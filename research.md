@@ -64,3 +64,11 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
  - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/))
 
+
+## Other Publications
+
+- ["A Note on Gender Differences in Credit Card Limit Changes"](https://www.federalreserve.gov/econres/notes/feds-notes/a-note-on-gender-differences-in-credit-card-limit-changes-20241220.html) (with Anna Tranfaglia), *FEDS Note* (2024)
+
+- ["Health Insurance and Individual Financial Outcomes"](https://www.philadelphiafed.org/consumer-finance/consumer-credit/health-insurance-and-individual-financial-outcomes) (with Slava Mikhed and James Bailey), *CFI In Focus* (2020)
+
+
