@@ -1,5 +1,15 @@
 ## Peer Reviewed Publications
 
+- "Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants" (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
+
+
+     - **Abstract:** Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total bankcard limits. We estimate that male borrowers have approximately $1,300 higher total bankcard limits than female borrowers. This gap is primarily driven by a large gender gap in the right tail of the limit distribution. At the median and in the left tail of the total limit distribution, women have larger limits than men. Results from a Kitagawa-Oaxaca-Blinder decomposition show that 87 percent of the gap is explained by differences in the *effect* of observed characteristics, while 10 percent of the difference is explained by differences in the levels of observed characteristics. The gap is persistent across geographies but has varied over time. Overall, these gender gaps are small in economic magnitude and have changed over time favoring women.
+
+       ##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
+
+       ##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
+
+
 - ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *American Journal of Health Economics*, 2025, 11(4).
 
      - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
@@ -21,7 +31,7 @@
 
 ## Working Papers
 
- - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20.
+ - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20. (*Revise and Resubmit, Journal of Health Economics*)
 
 
      - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law (FPL), a law that places a price ceiling on hospital bills for uninsured and financially vulnerable individuals. Using difference-in-difference-in-differences models, we
@@ -34,12 +44,6 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
        ##### Media Coverage: [Take on Payments Blog](https://www.atlantafed.org/blogs/take-on-payments/2023/07/10/lets-try-gamification-to-fight-data-breach-ennui)
 
-- "Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants" (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)). (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.) (*Revise and Resubmit, Journal of Money, Credit, and Banking*)
-
-
-     - **Abstract:** Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total bankcard limits. We estimate that male borrowers have approximately $1,300 higher total bankcard limits than female borrowers. This gap is primarily driven by a large gender gap in the right tail of the limit distribution. At the median and in the left tail of the total limit distribution, women have larger limits than men. Results from a Kitagawa-Oaxaca-Blinder decomposition show that 87 percent of the gap is explained by differences in the *effect* of observed characteristics, while 10 percent of the difference is explained by differences in the levels of observed characteristics. The gap is persistent across geographies but has varied over time. Overall, these gender gaps are small in economic magnitude and have changed over time favoring women.
-
-       ##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
 
 - ["Health Insurance as an Income Stabilizer"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-05.pdf) (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/), [Stephen Roll](https://brownschool.wustl.edu/faculty-and-research/stephen-roll/), and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05. 
 
