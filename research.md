@@ -1,7 +1,6 @@
 ## Peer Reviewed Publications
 
-- "Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants" (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
-
+- ["Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
 
      - **Abstract:** Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total bankcard limits. We estimate that male borrowers have approximately $1,300 higher total bankcard limits than female borrowers. This gap is primarily driven by a large gender gap in the right tail of the limit distribution. At the median and in the left tail of the total limit distribution, women have larger limits than men. Results from a Kitagawa-Oaxaca-Blinder decomposition show that 87 percent of the gap is explained by differences in the *effect* of observed characteristics, while 10 percent of the difference is explained by differences in the levels of observed characteristics. The gap is persistent across geographies but has varied over time. Overall, these gender gaps are small in economic magnitude and have changed over time favoring women.
 
@@ -31,14 +30,14 @@
 
 ## Working Papers
 
- - ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 23-20. (*Revise and Resubmit, Journal of Health Economics*)
+ - [Hospital Billing Regulations and Financial Well-Being Evidence from California’s Fair Pricing Law](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 25-39. (*Revise and Resubmit, Journal of Health Economics*)
 
+     - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law (FPL), a law that places a price ceiling on hospital bills for uninsured and financially vulnerable individuals. Using difference-in-difference-in-differences models, we exploit cross-sectional variation in exposure to the law to estimate the causal effects of the FPL on different measures of financial distress. We find that the law reduces the medical and non-medical debt burden of individuals targeted by the law, with the likelihood of incurring non-medical debt in collections declining by 14.5 percent and the number of non-medical collections declining by 31 percent. The law also reduces the probability of having medical and non-medical debt balances between $1 and $1,000 in collections by 16.5 percent and 40 percent, respectively. Our results suggest that hospital billing regulations have direct and indirect effects on the personal financial outcomes of uninsured and financially vulnerable individuals.
 
-     - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law (FPL), a law that places a price ceiling on hospital bills for uninsured and financially vulnerable individuals. Using difference-in-difference-in-differences models, we
-exploit cross-sectional variation in exposure to the law to estimate the causal effects of the FPL on different measures of financial distress. We find that the law reduces the medical and non-medical debt burden of individuals targeted by the law, with the likelihood of incurring non-medical debt in collections declining by 14.5 percent and the number of non-medical collections declining by 31 percent. The law also reduces the probability of having medical and non-medical debt balances between $1 and $1,000 in collections by 16.5 percent and 40 percent, respectively. Our results suggest that hospital billing regulations have direct and indirect effects on the personal financial outcomes of uninsured and financially vulnerable individuals.
+      ##### (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
+
 
 - ["Prior Fraud Exposure and Precautionary Credit Market Behavior"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-36.pdf) (with [Ying Lei Toh](https://yingleitoh.weebly.com/)), Federal Reserve Bank of Philadelphia Working Paper 22-36.
-
 
      - **Abstract:** This paper studies how past experiences with privacy shocks affect individuals' take-up of precautionary behavior when faced with a new privacy shock in the context of credit markets. We focus on experiences with identity theft and data breaches, two kinds of privacy shocks that either directly lead to fraud or put an individual at an elevated risk of experiencing fraud. Using the announcement of the 2017 Equifax data breach, we show that individuals with either kind of prior fraud exposure were more likely to freeze their credit report and close credit card accounts than individuals with no prior exposure immediately after the announcement. We also find that prior victims of identity theft, a more serious type of exposure, were more likely to take precautionary actions than individuals who were victims of a previous data breach.
 
@@ -47,17 +46,20 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
 - ["Health Insurance as an Income Stabilizer"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-05.pdf) (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/), [Stephen Roll](https://brownschool.wustl.edu/faculty-and-research/stephen-roll/), and Michal Grinstein-Weiss), Federal Reserve Bank of Philadelphia Working Paper 20-05. 
 
-
      - **Abstract:** We evaluate the effect of health insurance on the incidence of negative income shocks using the tax data and survey responses of nearly 14,000 low income households. Using a regression discontinuity (RD) design and variation in the cost of nongroup private health insurance under the Affordable Care Act, we find that eligibility for subsidized Marketplace insurance is associated with a 16% and 9% decline in the rates of unexpected job loss and income loss, respectively. Effects are concentrated among households with past health costs and exist only for “unexpected” forms of earnings variation, suggesting a health-productivity link. Calculations based on our fuzzy RD estimate imply a $256 to $476 per year welfare benefit of health insurance in terms of reduced exposure to job loss. 
 
-- ["Financial Fraud Through the Lens of Extended Fraud Alerts"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2025/wp25-29.pdf) (with Julia Cheney, Robert Hunt, Slava Mikhed, Dubravka Ritter, and Michael Vogan),  (Previously circulated as ["Financial Consequences of Severe Identity Theft in the U.S."](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-41.pdf) in Federal Reserve Bank of Philadelphia Working Paper 21-41 and ["Identity Theft as a Teachable Moment"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2016/wp16-27.pdf) in Federal Reserve Bank of Philadelphia Working Paper 16-27.) (*Revise and Resubmit, Review of Corporate Finance Studies*)
-
+- ["Financial Fraud Through the Lens of Extended Fraud Alerts"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2025/wp25-29.pdf) (with Julia Cheney, Robert Hunt, Slava Mikhed, Dubravka Ritter, and Michael Vogan), Federal Reserve Bank of Philadelphia Working Paper 25-29. (*Revise and Resubmit, Review of Corporate Finance Studies*)
 
      - **Abstract:** We use extended fraud alerts in anonymized credit reports to examine how identity theft, and subsequent clean-up, affects consumers’ credit outcomes. The immediate effects of fraud for these consumers are negative, relatively small, and transitory. After placing an alert, these consumers experience persistent declines in delinquencies and a 12-point increase in credit scores, and 11 percent of filers become prime consumers. Many of these consumers take advantage of their improved creditworthiness and obtain additional credit. Although alert filers have larger balances, their performance on loans is as good as better than before fraud, suggestive of a change in behavior following fraud.
+
+       ##### (Previously circulated as ["Financial Consequences of Severe Identity Theft in the U.S."](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2021/wp21-41.pdf) in Federal Reserve Bank of Philadelphia Working Paper 21-41 and ["Identity Theft as a Teachable Moment"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2016/wp16-27.pdf) in Federal Reserve Bank of Philadelphia Working Paper 16-27.)
 
        ##### Media Coverage: [American Banker](https://www.americanbanker.com/news/silver-lining-some-fraud-victims-see-credit-scores-rise)
 
 
+- "Hospital Market Structure and Medical Collections" (with [Tom Hamami](https://faculty.providence.edu/en/persons/tom-hamami) and [Kejda Llana](https://www.udel.edu/academics/colleges/biden-school/people/kejda/))
+
+     - **Abstract:** This paper studies how hospital market structure impacts medical collections in the U.S. We first formulate a stylized model of hospitals, insurers, and consumers to inform our empirical analysis. Then, using anonymized credit bureau data on medical collections and geographic data on hospital locations from 2007 to 2011, we examine the relationship between hospital market structure and medical collections empirically. We find that more concentrated hospital markets -- counties with fewer hospitals -- have a higher percentage of their population with medical collections compared to less concentrated hospital markets. An analysis of hospital mergers during this time period show that counties with hospitals involved in mergers have a higher percentage of individuals with medical collections.
 
 ## Works In-progress
 
@@ -75,7 +77,8 @@ exploit cross-sectional variation in exposure to the law to estimate the causal 
 
  - "Trauma and Personal Finance: Evidence from Mass Shootings" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0)
 
- - "Hospital Market Structure and Medical Collections" (with [Tom Hamami](https://faculty.providence.edu/en/persons/tom-hamami) and [Kejda Llana](https://www.udel.edu/academics/colleges/biden-school/people/kejda/))
+ - "The Price of Treatment: Estimating the Effects of Substance Use Disorder Facilities on House Prices" (with [Jonathan Cantor](https://www.rand.org/about/people/c/cantor_jonathan_h.html), [Keyoung Lee](https://www.philadelphiafed.org/our-people/keyoung-lee), Brady Horn, Catherine Maclean, Alex Hollingsworth, and Kosali Simon)
+
 
 ## Federal Reserve Notes, Reports, and Shorter Pieces
 
