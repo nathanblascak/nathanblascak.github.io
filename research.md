@@ -72,7 +72,7 @@
 
  <!-- - "Thirsty for Credit: Mortgage Lending During the Flint Water Crisis" (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/)) -->
 
- - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/))
+ <!-- - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/)) -->
 
  - "Economic Transfers and Health Behaviors" (with [Marion Aouad](https://maouad.weebly.com/) and [Michael Fitzpatrick](https://sites.google.com/view/michaelfitzpatrick))
 
