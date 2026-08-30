@@ -16,7 +16,7 @@
 <ul>
 <ul>
  
-##### Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
+   ##### Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
 
 </ul>
 </ul>
@@ -37,9 +37,9 @@
 <ul>
 <ul>
  
-##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
+   ##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
 
-##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
+   ##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
 
 </ul>
 </ul>
@@ -107,7 +107,7 @@
 
      - **Abstract:** We study how past experiences with fraud affect individuals' likelihood of taking precautionary action in credit markets when faced with a new shock that raises their fraud risks. We focus on two kinds of past experiences with fraud: direct experience with fraud and a “near-miss” experience that increased fraud risk but did not directly lead to fraud. Using the 2017 Equifax data breach announcement, we show that individuals with either type of prior experience with fraud were more likely to take a precautionary action — freezing their credit report — than individuals with no prior experience with fraud. We also find that individuals with past direct experience with fraud were more likely to freeze their credit report than individuals who had a past near-miss experience. The individuals who froze their credit report had fewer total accounts and credit inquiries than those who did not, but this reduction in credit did not reduce their credit scores.
 
-       ##### (Previously circulated as ["Prior Fraud Exposure and Precautionary Credit Market Behavior"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-36.pdf) in Federal Reserve Bank of Philadelphia Working Paper 22-36.
+       ##### (Previously circulated as ["Prior Fraud Exposure and Precautionary Credit Market Behavior"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2022/wp22-36.pdf) in Federal Reserve Bank of Philadelphia Working Paper 22-36.)
 
        ##### Media Coverage: [Take on Payments Blog](https://www.atlantafed.org/blogs/take-on-payments/2023/07/10/lets-try-gamification-to-fight-data-breach-ennui)
 
