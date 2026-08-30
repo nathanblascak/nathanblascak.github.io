@@ -1,38 +1,105 @@
 ## Peer Reviewed Publications
 
- - [Hospital Billing Regulations and Financial Well-Being: Evidence from California’s Fair Pricing Law](https://www.nber.org/papers/w35080) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), NBER Working Paper 35080. *Journal of Health Economics* (Accepted)
+[Hospital Billing Regulations and Financial Well-Being: Evidence from California’s Fair Pricing Law](https://www.sciencedirect.com/science/article/abs/pii/S0167629626000718) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), *Journal of Health Economics*, 2026, Volume 109, 103173. 
 
-     - **Abstract:** We examine the financial consequences of the 2007 California Fair Pricing Law, which places a price ceiling on hospital bills for financially vulnerable individuals. Using cross-sectional variation in exposure to the law, proxied by county-level uninsured rates, we estimate its impact on individual financial outcomes. We find that the law reduces the likelihood of incurring non-medical debt in collections and the number of non-medical accounts in collections. In addition, we find evidence that credit scores increased and suggestive evidence that the number of delinquent accounts decreased for individuals in more exposed counties. Our results suggest hospital billing regulations can improve targeted individuals’ financial outcomes.
+<ul>
+<ul>
+ 
+<details>
+<summary><b> Abstract: </b></summary> We examine the financial consequences of the 2007 California Fair Pricing Law, which places a price ceiling on hospital bills for financially vulnerable individuals. Using cross-sectional variation in exposure to the law, proxied by county-level uninsured rates, we estimate its impact on individual financial outcomes. We find that the law reduces the likelihood of incurring non-medical debt in collections and the number of non-medical accounts in collections. In addition, we find evidence that credit scores increased and suggestive evidence that the number of delinquent accounts decreased for individuals in more exposed counties. Our results suggest hospital billing regulations can improve targeted individuals’ financial outcomes.
+ 
+</details>
+ 
+</ul>
+</ul>
 
-       ##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
+<ul>
+<ul>
+ 
+##### Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
 
-- ["Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
+</ul>
+</ul>
 
-     - **Abstract:** Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total bankcard limits. We estimate that male borrowers have approximately $1,300 higher total bankcard limits than female borrowers. This gap is primarily driven by a large gender gap in the right tail of the limit distribution. At the median and in the left tail of the total limit distribution, women have larger limits than men. Results from a Kitagawa-Oaxaca-Blinder decomposition show that 87 percent of the gap is explained by differences in the *effect* of observed characteristics, while 10 percent of the difference is explained by differences in the levels of observed characteristics. The gap is persistent across geographies but has varied over time. Overall, these gender gaps are small in economic magnitude and have changed over time favoring women.
+["Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
 
-       ##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
+<ul>
+<ul>
+ 
+<details>
+<summary><b> Abstract: </b></summary> Using linked mortgage application and credit bureau data, we document the existence of unconditional and conditional gender gaps in the distribution of total bankcard limits. We estimate that male borrowers have approximately $1,300 higher total bankcard limits than female borrowers. This gap is primarily driven by a large gender gap in the right tail of the limit distribution. At the median and in the left tail of the total limit distribution, women have larger limits than men. Results from a Kitagawa-Oaxaca-Blinder decomposition show that 87 percent of the gap is explained by differences in the *effect* of observed characteristics, while 10 percent of the difference is explained by differences in the levels of observed characteristics. The gap is persistent across geographies but has varied over time. Overall, these gender gaps are small in economic magnitude and have changed over time favoring women.
 
-       ##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
+</details>
 
+</ul>
+</ul>
 
-- ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *American Journal of Health Economics*, 2025, 11(4): 529-564.
+<ul>
+<ul>
+ 
+##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
 
-     - **Abstract:** In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
+##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
 
-       ##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 20-42](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
+</ul>
+</ul>
 
-       ##### Media Coverage: [KFF Health News](https://kffhealthnews.org/news/article/medicaid-expansion-state-constitutions-congress-gop-republican-cuts-missouri/), [KOAM (Joplin, MO Local News)](https://www.koamnewsnow.com/video/6am-newscast-july-14th/video_82d176d8-6ae0-515b-8d6c-085950f18631.html)
+["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *American Journal of Health Economics*, 2025, 11(4): 529-564.
 
+<ul>
+<ul>
+ 
+<details>
+<summary><b> Abstract: </b></summary> In July 2005, a set of cuts to Medicaid eligibility and coverage went into effect in the state of Missouri. These cuts resulted in the elimination of the Medical Assistance for Workers with Disabilities program, more stringent eligibility requirements, and less generous Medicaid coverage for those who retained their eligibility. Overall, these cuts removed about 100,000 Missourians from the program and reduced the value of the insurance for the remaining enrollees. Using data from the Medical Expenditure Panel Survey, we show how these cuts increased out-of-pocket medical spending for individuals living in Missouri. Using individual-level credit bureau data and employing a border discontinuity differences-in-differences empirical strategy, we show that the Medicaid reform led to increases in both credit card borrowing and debt in third-party collections. When comparing our results with the broader literature on Medicaid and consumer finance, which has generally measured the effects of Medicaid expansions rather than cuts, our results suggest there are important asymmetries in the financial effects of shrinking a public health insurance program when compared with a public health insurance expansion.
 
-- ["Health Insurance and Young Adult Financial Distress"](https://onlinelibrary.wiley.com/doi/10.1002/pam.22458) (with [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *Journal of Policy Analysis and Management*, 2023, 42(2): 393-423.
+</details>
 
-     - **Abstract:** We study how health insurance eligibility affects financial distress for young adults using the Affordable Care Act's (ACA) dependent coverage mandate-the part of the ACA that requires private health insurance plans to cover individuals up to their 26th birthday. We examine the effects of both gaining *and* losing eligibility by exploiting the mandate's implementation in 2010 and its automatic disenrollment mechanism at age 26. Our estimates show that increasing access to health insurance lowers young adults' out-of-pocket medical expenditures and debt in third-party collections. However, the reductions in financial distress are transitory, as they diminish after an individual loses access to parental insurance when they age out of the mandate at age 26.
+</ul>
+</ul>
 
-       ##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 19-54](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-54.pdf) (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.) 
+<ul>
+<ul>
 
- - ["The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions"](https://www.tandfonline.com/doi/full/10.1080/13504851.2015.1130786) (with [James Bailey](https://sites.temple.edu/jamesbailey/)), *Applied Economic Letters*, 2016, 23(14): 1042-1046.
+##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 20-42](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
 
-      - **Abstract:** The average US state has 40 benefit mandates, laws requiring health insurance to cover particular conditions, treatments, providers or people. We investigate the extent to which these mandates increase the health insurance premiums paid by employers, and the extent to which these higher premiums are passed on to employees in the form of higher employee contributions. We use state-level data on premiums and employee contributions to health insurance from the insurance component of the 1996–2011 Medical Expenditure Panel Survey. Our main analysis is a fixed effects regression that controls for age, race, income, union membership and the presence of state mandate waivers. We find robust evidence that the average mandate increases premiums by approximately 0.6%, and that mandates lead to similar increases in employee contributions for single-coverage health insurance plans. Alternative specifications using an AR(1) error structure estimate a larger effect of mandates, while those using generalized estimating equations estimate smaller effects. We find that mandates requiring insurers to cover a specific benefit, as opposed to a specific type of provider or person, lead to the largest increases in employee contributions. 
+##### Media Coverage: [KFF Health News](https://kffhealthnews.org/news/article/medicaid-expansion-state-constitutions-congress-gop-republican-cuts-missouri/), [KOAM (Joplin, MO Local News)](https://www.koamnewsnow.com/video/6am-newscast-july-14th/video_82d176d8-6ae0-515b-8d6c-085950f18631.html)
+
+</ul>
+</ul>
+
+["Health Insurance and Young Adult Financial Distress"](https://onlinelibrary.wiley.com/doi/10.1002/pam.22458) (with [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *Journal of Policy Analysis and Management*, 2023, 42(2): 393-423.
+
+<ul>
+<ul>
+ 
+<details>
+<summary><b> Abstract: </b></summary>We study how health insurance eligibility affects financial distress for young adults using the Affordable Care Act's (ACA) dependent coverage mandate-the part of the ACA that requires private health insurance plans to cover individuals up to their 26th birthday. We examine the effects of both gaining *and* losing eligibility by exploiting the mandate's implementation in 2010 and its automatic disenrollment mechanism at age 26. Our estimates show that increasing access to health insurance lowers young adults' out-of-pocket medical expenditures and debt in third-party collections. However, the reductions in financial distress are transitory, as they diminish after an individual loses access to parental insurance when they age out of the mandate at age 26.
+
+</details>
+
+</ul>
+</ul>
+
+<ul>
+<ul>
+
+##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 19-54](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-54.pdf) (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.) 
+
+</ul>
+</ul>
+
+["The Effect of State Health Insurance Benefit Mandates on Premiums and Employee Contributions"](https://www.tandfonline.com/doi/full/10.1080/13504851.2015.1130786) (with [James Bailey](https://sites.temple.edu/jamesbailey/)), *Applied Economic Letters*, 2016, 23(14): 1042-1046.
+
+<ul>
+<ul>
+ 
+<details>
+<summary><b> Abstract: </b></summary>The average US state has 40 benefit mandates, laws requiring health insurance to cover particular conditions, treatments, providers or people. We investigate the extent to which these mandates increase the health insurance premiums paid by employers, and the extent to which these higher premiums are passed on to employees in the form of higher employee contributions. We use state-level data on premiums and employee contributions to health insurance from the insurance component of the 1996–2011 Medical Expenditure Panel Survey. Our main analysis is a fixed effects regression that controls for age, race, income, union membership and the presence of state mandate waivers. We find robust evidence that the average mandate increases premiums by approximately 0.6%, and that mandates lead to similar increases in employee contributions for single-coverage health insurance plans. Alternative specifications using an AR(1) error structure estimate a larger effect of mandates, while those using generalized estimating equations estimate smaller effects. We find that mandates requiring insurers to cover a specific benefit, as opposed to a specific type of provider or person, lead to the largest increases in employee contributions. 
+
+</details>
+
+</ul>
+</ul>
 
 ## Working Papers
 
@@ -74,7 +141,7 @@
 
  <!-- - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/)) -->
 
- - "Economic Transfers and Health Behaviors" (with [Marion Aouad](https://maouad.weebly.com/) and [Michael Fitzpatrick](https://sites.google.com/view/michaelfitzpatrick))
+ - "How do Cash Transfers affect Health?: Evidence from the Alaska Permanent Fund Dividend" (with [Marion Aouad](https://maouad.weebly.com/) and [Michael Fitzpatrick](https://sites.google.com/view/michaelfitzpatrick))
 
  - "Trauma and Personal Finance: Evidence from Mass Shootings" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0)
 
