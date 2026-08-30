@@ -13,13 +13,11 @@
 </ul>
 </ul>
 
-<ul>
-<ul>
 
-Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
 
-</ul>
-</ul>
+##### Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
+
+
 
 ["Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
 
