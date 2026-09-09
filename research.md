@@ -2,7 +2,7 @@
 
 [Hospital Billing Regulations and Financial Well-Being: Evidence from California’s Fair Pricing Law](https://www.sciencedirect.com/science/article/abs/pii/S0167629626000718) (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0) and [Marion Aouad](https://maouad.weebly.com/)), *Journal of Health Economics*, 2026, Volume 109, 103173. 
 
-##### <p style="font-size: 6px;">Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
+##### Working paper versions: [NBER Working Paper 35080](https://www.nber.org/papers/w35080), [Federal Reserve Bank of Philadelphia Working Paper 25-39](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (Previous circulated as ["I've Got 99 Problems But a Bill Ain't One: Hospital Billing Caps and Financial Distress in California"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-20.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-20.)
 
 <ul>
 <ul>
