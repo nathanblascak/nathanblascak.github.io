@@ -32,10 +32,14 @@
 
 <ul>
 <ul>
- 
-   ##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
 
-   ##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
+<details>
+ 
+##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
+
+##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
+
+</details>
 
 </ul>
 </ul>
