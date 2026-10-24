@@ -105,6 +105,10 @@
 
      - **Abstract:** This paper studies how hospital market structure impacts medical collections in the U.S. We first formulate a stylized model of hospitals, insurers, and consumers to inform our empirical analysis. Then, using anonymized credit bureau data on medical collections and geographic data on hospital locations from 2007 to 2011, we examine the relationship between hospital market structure and medical collections empirically. We find that more concentrated hospital markets -- counties with fewer hospitals -- have a higher percentage of their population with medical collections compared to less concentrated hospital markets. An analysis of hospital mergers during this time period show that counties with hospitals involved in mergers have a higher percentage of individuals with medical collections.
 
+ - "How do Cash Transfers affect Health?: Evidence from the Alaska Permanent Fund Dividend" (with [Marion Aouad](https://maouad.weebly.com/) and [Michael Fitzpatrick](https://sites.google.com/view/michaelfitzpatrick))
+
+     - **Abstract:** What are the effects of unconditional, cash transfer on health behaviors? To answer this question, we examine how receipt of the Alaska Permanent Fund Dividend (APFD) -- an annual cash transfer to nearly all Alaska residents -- affects the timing of risky health behaviors and the repayment of medical debt. We find evidence of ``dangerous liquidity'' -- alcohol-related emergency department admissions sharply increase by approximately  15.7 percent within one week of the APFD disbursement. Further, our results indicate that the spike in alcohol-ED visits are largely driven by a smaller, but substantially higher-risk population. This suggests that universal cash transfer programs, such as the APFD, are more likely to affect the intensive margin of existing risky health behaviors, rather than promoting newfound risky  behaviors among those who did not previously exhibit them. Lastly, we find evidence that medical collection payments are 62% higher in the month of APFD disbursement. This suggests that, for some, direct cash transfers may be a tool to pay off delinquent medical bills.
+
 ## Works In-progress
 
  <!-- - "Gender Differences in Bankcard Credit Limit Changes" (with Anna Tranfaglia) -->
@@ -116,8 +120,6 @@
  <!-- - "Thirsty for Credit: Mortgage Lending During the Flint Water Crisis" (with [Emily A. Gallagher](https://sites.google.com/site/emgallag/)) -->
 
  <!-- - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/)) -->
-
- - "How do Cash Transfers affect Health?: Evidence from the Alaska Permanent Fund Dividend" (with [Marion Aouad](https://maouad.weebly.com/) and [Michael Fitzpatrick](https://sites.google.com/view/michaelfitzpatrick))
 
  - "Trauma and Personal Finance: Evidence from Mass Shootings" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0)
 
