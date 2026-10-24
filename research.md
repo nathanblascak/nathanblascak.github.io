@@ -15,9 +15,11 @@
 </ul>
 </ul>
 
-
-
 ["Gender Differences in Credit Card Limits: Evidence from Sole Mortgage Applicants"](https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2023/wp23-30.pdf) (with [Anna Tranfaglia](https://www.federalreserve.gov/econres/anna-e-tranfaglia.htm)), *Journal of Money, Credit, and Banking* (Accepted)
+
+##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
+
+##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
 
 <ul>
 <ul>
@@ -30,21 +32,11 @@
 </ul>
 </ul>
 
-<ul>
-<ul>
-
-<details>
- 
-##### Working paper version: (Previously circulated as ["Decomposing Gender Differences in Bankcard Credit Limits"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2023/wp23-30.pdf) in Federal Reserve Bank of Philadelphia Working Paper 23-30.)
-
-##### Media Coverage: [CNBC](https://www.cnbc.com/2021/11/09/men-tend-to-have-higher-credit-limits-than-female-borrowers.html), [American Banker](https://www.americanbanker.com/news/tech-startup-fairplay-aims-to-root-out-lending-bias-with-ai), [Bankrate.com](https://www.bankrate.com/finance/credit-cards/credit-card-ownership-usage-statistics/)
-
-</details>
-
-</ul>
-</ul>
-
 ["Missouri's Medicaid Contraction and Consumer Financial Outcomes"](https://www.journals.uchicago.edu/doi/10.1086/729536) (with [James Bailey](https://sites.temple.edu/jamesbailey/) and [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *American Journal of Health Economics*, 2025, 11(4): 529-564.
+
+##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 20-42](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
+
+##### Media Coverage: [KFF Health News](https://kffhealthnews.org/news/article/medicaid-expansion-state-constitutions-congress-gop-republican-cuts-missouri/), [KOAM (Joplin, MO Local News)](https://www.koamnewsnow.com/video/6am-newscast-july-14th/video_82d176d8-6ae0-515b-8d6c-085950f18631.html)
 
 <ul>
 <ul>
@@ -57,17 +49,9 @@
 </ul>
 </ul>
 
-<ul>
-<ul>
-
-##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 20-42](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2020/wp20-42.pdf)
-
-##### Media Coverage: [KFF Health News](https://kffhealthnews.org/news/article/medicaid-expansion-state-constitutions-congress-gop-republican-cuts-missouri/), [KOAM (Joplin, MO Local News)](https://www.koamnewsnow.com/video/6am-newscast-july-14th/video_82d176d8-6ae0-515b-8d6c-085950f18631.html)
-
-</ul>
-</ul>
-
 ["Health Insurance and Young Adult Financial Distress"](https://onlinelibrary.wiley.com/doi/10.1002/pam.22458) (with [Slava Mikhed](https://www.philadelphiafed.org/our-people/slava-mikhed)), *Journal of Policy Analysis and Management*, 2023, 42(2): 393-423.
+
+##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 19-54](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-54.pdf) (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.)
 
 <ul>
 <ul>
@@ -76,14 +60,6 @@
 <summary><b> Abstract: </b></summary>We study how health insurance eligibility affects financial distress for young adults using the Affordable Care Act's (ACA) dependent coverage mandate-the part of the ACA that requires private health insurance plans to cover individuals up to their 26th birthday. We examine the effects of both gaining *and* losing eligibility by exploiting the mandate's implementation in 2010 and its automatic disenrollment mechanism at age 26. Our estimates show that increasing access to health insurance lowers young adults' out-of-pocket medical expenditures and debt in third-party collections. However, the reductions in financial distress are transitory, as they diminish after an individual loses access to parental insurance when they age out of the mandate at age 26.
 
 </details>
-
-</ul>
-</ul>
-
-<ul>
-<ul>
-
-##### Working paper version: [Federal Reserve Bank of Philadelphia Working Paper 19-54](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2019/wp19-54.pdf) (Previously circulated as ["Did the ACA's Dependent Coverage Mandate Reduce Financial Distress for Young Adults?"](https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2018/wp18-03.pdf) in Federal Reserve Bank of Philadelphia Working Paper 18-03.) 
 
 </ul>
 </ul>
