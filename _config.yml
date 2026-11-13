@@ -4,8 +4,8 @@ description:
 theme: jekyll-theme-minimal
 navigation:
 -title: Home
-url: /
+url: https://nathanblascak.github.io/
 -title: Research
-url: /research/
+url: https://nathanblascak.github.io/research
 -title: CV
 url: /cv/
