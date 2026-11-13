@@ -1,0 +1,261 @@
+---
+---
+
+// ==========================================================================
+// Custom stylesheet: fully replaces jekyll-theme-minimal's default styles.
+// Change the variables below to retheme the whole site.
+// ==========================================================================
+
+$accent:        #1f4e79;   // links, highlights (muted navy)
+$accent-hover:  #163a5a;
+$text:          #222222;
+$text-muted:    #5f6368;
+$border:        #e3e5e8;
+$bg:            #ffffff;
+$bg-soft:       #f6f7f9;
+
+$font-body:     "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-ui:       "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+$max-width:     760px;
+$breakpoint:    640px;
+
+// ---------- Base ----------
+*, *::before, *::after { box-sizing: border-box; }
+
+html { font-size: 17px; }
+
+body {
+  margin: 0;
+  background: $bg;
+  color: $text;
+  font-family: $font-body;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+a {
+  color: $accent;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($accent, 0.25);
+  transition: color 0.15s, border-color 0.15s;
+  &:hover { color: $accent-hover; border-bottom-color: $accent-hover; }
+}
+
+h1, h2, h3, h4 {
+  font-family: $font-ui;
+  font-weight: 600;
+  line-height: 1.3;
+  color: $text;
+}
+h1 { font-size: 1.9rem; margin: 0 0 0.5rem; }
+h2 {
+  font-size: 1.25rem;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid $border;
+}
+h3 { font-size: 1.05rem; margin: 1.75rem 0 0.5rem; }
+
+hr { border: 0; border-top: 1px solid $border; margin: 2rem 0; }
+
+img { max-width: 100%; height: auto; }
+
+code {
+  font-size: 0.85em;
+  background: $bg-soft;
+  padding: 0.1em 0.35em;
+  border-radius: 3px;
+}
+
+// ---------- Header / nav ----------
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba($bg, 0.95);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid $border;
+  font-family: $font-ui;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 3.5rem;
+}
+
+.site-name {
+  font-weight: 600;
+  font-size: 1rem;
+  color: $text;
+  border: 0;
+  &:hover { color: $accent; }
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.5rem;
+  a {
+    font-size: 0.9rem;
+    color: $text-muted;
+    border: 0;
+    padding: 0.25rem 0;
+    &:hover, &.active { color: $accent; }
+    &.active { box-shadow: inset 0 -2px 0 $accent; }
+  }
+}
+
+// Mobile hamburger (pure CSS, no JavaScript)
+.nav-toggle { display: none; }
+.nav-toggle-label { display: none; }
+
+@media (max-width: $breakpoint) {
+  .nav-toggle-label {
+    display: block;
+    cursor: pointer;
+    width: 1.5rem;
+    height: 1rem;
+    position: relative;
+    span, span::before, span::after {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: $text;
+      content: "";
+    }
+    span { top: 50%; transform: translateY(-50%); }
+    span::before { top: -6px; }
+    span::after { top: 6px; }
+  }
+  .site-nav {
+    display: none;
+    position: absolute;
+    top: 3.5rem;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    gap: 0;
+    background: $bg;
+    border-bottom: 1px solid $border;
+    a { padding: 0.75rem 1.25rem; border-top: 1px solid $border; }
+    a.active { box-shadow: inset 3px 0 0 $accent; }
+  }
+  .nav-toggle:checked ~ .site-nav { display: flex; }
+}
+
+// ---------- Profile block ----------
+.profile {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  margin: 3rem 0 1rem;
+}
+
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  flex-shrink: 0;
+  object-fit: cover;
+  border-radius: 4px;   // square; use 0 for sharp corners
+  border: 1px solid $border;
+}
+
+.profile-text p { margin: 0.15rem 0; }
+.profile-name { margin-bottom: 0.25rem; }
+.profile-position, .profile-affiliation {
+  font-family: $font-ui;
+  font-size: 0.95rem;
+  color: $text-muted;
+}
+.profile-description { margin-top: 0.75rem !important; }
+
+.profile-links {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-family: $font-ui;
+  font-size: 0.85rem;
+  a {
+    display: inline-block;
+    padding: 0.3rem 0.8rem;
+    border: 1px solid $border;
+    border-radius: 999px;
+    color: $text;
+    &:hover { border-color: $accent; color: $accent; }
+  }
+}
+
+@media (max-width: $breakpoint) {
+  .profile { flex-direction: column; text-align: center; margin-top: 2rem; }
+  .profile-photo { width: 130px; height: 130px; }
+  .profile-links { justify-content: center; }
+}
+
+// ---------- Main content ----------
+.content { margin-bottom: 4rem; }
+
+// Paper listings: wrap each paper in <div class="paper"> ... </div>
+.paper {
+  margin: 0 0 1.5rem;
+  padding-left: 1rem;
+  border-left: 3px solid $border;
+  transition: border-color 0.15s;
+  &:hover { border-left-color: $accent; }
+
+  .paper-title {
+    font-family: $font-ui;
+    font-weight: 600;
+    font-size: 1rem;
+    margin: 0;
+  }
+  .paper-authors, .paper-venue {
+    font-size: 0.92rem;
+    color: $text-muted;
+    margin: 0.1rem 0;
+  }
+  .paper-venue { font-style: italic; }
+  .paper-links {
+    font-family: $font-ui;
+    font-size: 0.8rem;
+    margin-top: 0.35rem;
+    a { margin-right: 0.75rem; }
+  }
+  // Collapsible abstract using native <details>
+  details {
+    margin-top: 0.35rem;
+    font-size: 0.92rem;
+    summary {
+      cursor: pointer;
+      font-family: $font-ui;
+      font-size: 0.8rem;
+      color: $accent;
+      list-style: none;
+      &::-webkit-details-marker { display: none; }
+      &::before { content: "▸ "; }
+    }
+    &[open] summary::before { content: "▾ "; }
+    p { margin: 0.5rem 0 0; color: $text; }
+  }
+}
+
+// ---------- Footer ----------
+.site-footer {
+  border-top: 1px solid $border;
+  padding: 1.5rem 0;
+  font-family: $font-ui;
+  font-size: 0.8rem;
+  color: $text-muted;
+  p { margin: 0; }
+}
