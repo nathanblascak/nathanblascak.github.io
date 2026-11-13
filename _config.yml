@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 plugins:
 - jekyll-seo-tag
 
-title: "Nathan Blascak"
+title: 
 logo: "blascakwork.jpg"
 description: 
 
