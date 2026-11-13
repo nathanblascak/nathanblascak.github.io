@@ -3,7 +3,7 @@ logo: "blascakwork.jpg"
 description: 
 theme: jekyll-theme-minimal
 navigation:
--title: Home
+- title: Home
   url: https://nathanblascak.github.io/
--title: Research
+- title: Research
   url: https://nathanblascak.github.io/research
