@@ -1,7 +1,11 @@
+theme: jekyll-theme-minimal
+plugins:
+- jekyll-seo-tag
+
 title: "Nathan Blascak"
 logo: "blascakwork.jpg"
 description: 
-theme: jekyll-theme-minimal
+
 navigation:
 - title: Home
   url: https://nathanblascak.github.io/
