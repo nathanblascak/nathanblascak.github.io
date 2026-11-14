@@ -1,4 +1,3 @@
----
 ## About
 
 I am an Advisor and Research Fellow at the [Consumer Finance Institute](https://www.philadelphiafed.org/consumer-finance/about-the-consumer-finance-institute) at the [Federal Reserve Bank of Philadelphia](https://philadelphiafed.org/). My research focuses on topics in consumer/household finance, health economics, and fraud.
