@@ -3,6 +3,8 @@ plugins:
 - jekyll-seo-tag
 
 title: "Nathan Blascak"
+position: "Advisor and Research Fellow"
+Affiliation: "Federal Reserve Bank of Philadelphia"
 logo: "blascakwork.jpg"
 description: 
 
