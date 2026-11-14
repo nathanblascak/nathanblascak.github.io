@@ -22,7 +22,8 @@ I am an Advisor and Research Fellow at the [Consumer Finance Institute](https://
 ### Contact Information
 Email: nathan.blascak@phil.frb.org  
 Bluesky: [@nathanblascak](https://bsky.app/profile/nathanblascak.bsky.social)  
-Twitter: [@nathanblascak](https://twitter.com/NathanBlascak)
+Twitter: [@nathanblascak](https://twitter.com/NathanBlascak)  
+[Linkedin](https://www.linkedin.com/in/nathan-blascak-24308415)
 
 
 <!-- Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanblascak/nathanblascak.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
