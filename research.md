@@ -121,7 +121,7 @@
 
  <!-- - "Health, Basic Income, and Financial Distress" (with [Marion Aouad](https://maouad.weebly.com/)) -->
 
- - "Trauma and Personal Finance: Evidence from Mass Shootings" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0)
+ - "Trauma and Personal Finance: Evidence from Mass Shootings" (with [Yaa Akosa Antwi](https://sites.google.com/view/yakosa/home?authuser=0))
 
  - "The Price of Treatment: Estimating the Effects of Substance Use Disorder Facilities on House Prices" (with [Jonathan Cantor](https://www.rand.org/about/people/c/cantor_jonathan_h.html), [Keyoung Lee](https://www.philadelphiafed.org/our-people/keyoung-lee), Brady Horn, Catherine Maclean, Alex Hollingsworth, and Kosali Simon)
 
