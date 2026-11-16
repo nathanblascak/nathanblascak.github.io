@@ -101,7 +101,7 @@
        ##### Media Coverage: [American Banker](https://www.americanbanker.com/news/silver-lining-some-fraud-victims-see-credit-scores-rise)
 
 
-- "Hospital Market Structure and Medical Collections" (with [Tom Hamami](https://faculty.providence.edu/en/persons/tom-hamami) and [Kejda Llana](https://www.udel.edu/academics/colleges/biden-school/people/kejda/))
+- "Hospital Market Structure and Medical Collections" (with [Tom Hamami](https://faculty.providence.edu/en/persons/tom-hamami) and [Kejda Llana](https://kejdallana.com/))
 
      - **Abstract:** This paper studies how hospital market structure impacts medical collections in the U.S. We first formulate a stylized model of hospitals, insurers, and consumers to inform our empirical analysis. Then, using anonymized credit bureau data on medical collections and geographic data on hospital locations from 2007 to 2011, we examine the relationship between hospital market structure and medical collections empirically. We find that more concentrated hospital markets -- counties with fewer hospitals -- have a higher percentage of their population with medical collections compared to less concentrated hospital markets. An analysis of hospital mergers during this time period show that counties with hospitals involved in mergers have a higher percentage of individuals with medical collections.
 
